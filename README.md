@@ -4,9 +4,9 @@
 
 --< #1 >--
 
--=<>=- Mouse -=<>=-
+##-=<>=- Mouse -=<>=-
 
->> This is a code that can track your mouse and shows exact coordinate of your mouse <<
+> This is a code that can track your mouse and shows exact coordinate of your mouse 
 
 . you can copy the coordinate by "c"
 
@@ -16,9 +16,9 @@
 
 --< #2 >--
 
--=<>=- Auto Clicker -=<>=-
+##-=<>=- Auto Clicker -=<>=-
 
->> This is an autoclicker. You can customize it by modifying the code <<
+> This is an autoclicker. You can customize it by modifying the code 
 
 . You can also change keyboard.is_pressed('j') to another key
 
@@ -31,9 +31,9 @@
 
 --< #3 >--
 
--=<>=- Color Detector -=<>=-
+##-=<>=- Color Detector -=<>=-
 
->> This is a program that detects the color at your mouse position and shows its exact HEX and RGB values <<
+> This is a program that detects the color at your mouse position and shows its exact HEX and RGB values 
 
 . You can copy both HEX and RGB by pressing "c"
 
@@ -42,6 +42,10 @@
 . You can copy only RGB by pressing "a".
 
 . You can exit the app by pressing "Esc"
+
+
+
+
 
 
 
